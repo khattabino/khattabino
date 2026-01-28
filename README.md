@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student in hell 🔥  <br>Trying to stay alive  <br>Learning every day  <br>Please don’t tell me to be an engineer<br>
+Student in hell 🔥  <br>Trying to stay alive  <br>Learning every day  <br>Please don’t tell me engineer<br>
 
 
 # 💻 Tech Stack:
